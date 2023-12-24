@@ -1,0 +1,60 @@
+
+body {
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.zlwWO6L2VlkkfV908nmvvwHaE7&pid=Api&P=0');
+    background-position: center;
+    background-size: cover;
+    background-image:blur;
+    
+}
+h1 {
+    margin-left: 70px;
+    color:rgb(240, 241, 243)
+    }
+    form li {
+    list-style: none;
+    margin-bottom: 5px;
+    color: rgb(229, 233, 237);
+    
+    }
+    
+    form ul li label{
+    float: left;
+    clear: left;
+    width: 100px;
+    text-align: right;
+    margin-right: 10px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:14px;
+    color: rgb(237, 243, 248);
+   
+    }
+    
+    form ul li input, select {
+    float: left;
+    margin-bottom: 10px;
+    
+    }
+    form span{
+        float: left;
+    margin-bottom: 10px;
+   
+    }
+    
+    form textarea {
+    float: left;
+    width: 350px;
+    height: 150px;
+   
+    }
+    
+    [type="submit"] {
+    clear: left;
+    margin: 20px 0 0 230px;
+    font-size:18px
+    }
+    
+    p {
+    margin-left: 70px;
+    font-weight: bold;
+    }
+    
